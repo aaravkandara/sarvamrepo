@@ -1,0 +1,6 @@
+sarvamai>=0.1.39
+torch>=2.0.0
+torchvision>=0.15.0
+torchxrayvision>=1.5.0
+scikit-image>=0.20.0
+flask>=3.0.0
